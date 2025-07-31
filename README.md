@@ -49,6 +49,6 @@ Il sert de **preuve technique** de :
 
 ## 🚀 Utilisation
 ```bash
-git clone https://github.com/ton-pseudo/tp-link-bluetooth-diag.git
+git clone https://github.com/R16008882/tp-link-bluetooth-diag.git
 cd tp-link-bluetooth-diag
 sudo ./diagnose-bluetooth.sh
