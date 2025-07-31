@@ -42,9 +42,13 @@ Il sert de **preuve technique** de :
 - **Système hôte** : Debian 12 (noyau `6.1.0-37-amd64`)
 
 ---
+## Exemple de sortie
+<img width="851" height="744" alt="image" src="https://github.com/user-attachments/assets/0c849f08-1bb5-4891-89dd-9ee1fc408626" />
+
+---
 
 ## 🚀 Utilisation
 ```bash
-git clone https://github.com/ton-pseudo/tp-link-bt54-linux-support.git
-cd tp-link-bt54-linux-support
+git clone https://github.com/ton-pseudo/tp-link-bluetooth-diag.git
+cd tp-link-bluetooth-diag
 sudo ./diagnose-bluetooth.sh
